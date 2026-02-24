@@ -1,7 +1,7 @@
-Video Library Test Page
+Video Library Test
 
-This is a test page.
+This page confirms GitHub Pages is working.
 
 Links:
-- Video Library: /video-library/
-- My Library: /my-library/
+- Video Library: ./video-library/
+- Direct: ./video-library/index.html

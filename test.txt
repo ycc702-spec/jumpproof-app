@@ -1,0 +1,7 @@
+Video Library Test Page
+
+This is a test page.
+
+Links:
+- Video Library: /video-library/
+- My Library: /my-library/
